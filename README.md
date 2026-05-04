@@ -1,4 +1,4 @@
-# Mi-porfolio-
+# Porfolio Nicole Araujo
 # Sobre mi:
 - Soy estudiante de Desarrollo de Software orientado a aplicaciones móviles con Flutter,con formación  en administracion de empresas.
 # Contacto:
